@@ -123,11 +123,6 @@ Use deep learning based embeddings such as FaceNet
 
 Expand dataset size for improved generalization
 
-Deploy as a real time API
+Deploy as a real time API.
 
-# Repository Structure
-├── data/
-├── notebook.ipynb
-├── README.md
-└── requirements.txt
 
