@@ -1,4 +1,4 @@
-﻿# Facial_Recognition_supervise_learning
+﻿# Facial_Recognition_using supervise_learning
 
 # 📌 Project Overview
 
@@ -130,3 +130,4 @@ Deploy as a real time API
 ├── notebook.ipynb
 ├── README.md
 └── requirements.txt
+
